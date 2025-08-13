@@ -93,4 +93,5 @@ pheatmap(mat, annotation_col=df, cluster_rows=TRUE, show_rownames=TRUE, cluster_
 
 #Normalized counts plot
 plotCounts(dds, gene=which.min(results_Control_DM$padj), intgroup="condition")
+
 plotCounts(dds, gene=which.min(results_Control_DM$padj), intgroup="condition")
