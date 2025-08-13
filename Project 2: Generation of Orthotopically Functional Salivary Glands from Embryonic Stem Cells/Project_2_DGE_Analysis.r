@@ -92,3 +92,4 @@ pheatmap(mat, annotation_col=df, cluster_rows=TRUE, show_rownames=TRUE, cluster_
 plotCounts(dds, gene=which.min(results_Control_DM$padj), intgroup="condition") #Chst4
 plotCounts(dds, gene="ENSMUSG00000060550", intgroup="condition") #H2-Q7
 plotCounts(dds, gene="ENSMUSG00000027559", intgroup="condition") #Car3
+
