@@ -16,3 +16,4 @@ filtered_SE <- SE.MATS.JCEC %>%
 
 #creates csv  file
 write.csv(filtered_SE, file = "significant_events_SE.csv")
+
