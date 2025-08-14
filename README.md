@@ -21,8 +21,8 @@ The RNA Institute Summer Bioinformatics Program is a comprehensive 7-week fully 
 - **RStudio:** R, DESeq for DGE analysis, data visualization (PCA, MA, Volcano, Heatmap, Normalize Counts, Sashimi, Violin)
 - **Metascape:** GO enrichment analysis 
 
-## Repository Contents 
-This repository includes:
+## Folder Contents 
+This folder includes:
 - final project presentations
 - selected R programming scripts and analyses for each project
 - presentation scripts for each project containing added detail of my research process and analytical findings
