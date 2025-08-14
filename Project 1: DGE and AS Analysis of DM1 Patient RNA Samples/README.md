@@ -21,8 +21,8 @@ Key characteristics include:
 
 ## Methods and Analytical Pipeline
 ### Data Processing (HPCC)
-1. **Input Data:** FASTQ files containing RNA sequences and Phred quality scores
-2. **Sequence Alignment:** STAR alignment tool to map FASTQ reads to human reference genome (resulting in SAM and BAM files)
+- **Input Data:** FASTQ files containing RNA sequences and Phred quality scores
+- **Sequence Alignment:** STAR alignment tool to map FASTQ reads to human reference genome (resulting in SAM and BAM files)
 
 ### DGE Analysis (RStudio/DESeq)
 - **PCA Plot:** sample variance visualization
