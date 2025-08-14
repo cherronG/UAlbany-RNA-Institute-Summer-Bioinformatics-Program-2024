@@ -49,7 +49,7 @@ Immune System Enhancement:
 
 ## Repository Contents
 This folder contains:
-- complete presentation slides with results and interpretations
+- complete presentation slides and speaking notes with results and interpretations
 - R scripts for differential gene expression analysis and code generation for plots
 
 ---
